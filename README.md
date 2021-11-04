@@ -34,21 +34,22 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-## Socials, docs and other
+## Other
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
-![Twitch](https://img.shields.io/badge/flydexo-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-![Twitter](https://img.shields.io/badge/flydex0-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ## Stats
 [![flydexo's GitHub stats](https://github-readme-stats.vercel.app/api?username=flydexo&count_private=true&show_icons=true&theme=radical)](https://github.com/flydexo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flydexo&repo=nft-marketplace-api)](https://github.com/flydexo/nft-marketplace-api)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flydexo&layout=compact)](https://github.com/flydexo)
+## Contact me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discords.com/bio/p/flydexo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheoledev@gmail.com)
+![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
+![Twitch](https://img.shields.io/badge/flydexo-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+[![Twitter](https://img.shields.io/badge/flydex0-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Flydex0)

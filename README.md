@@ -47,4 +47,4 @@
 ![Twitch](https://img.shields.io/badge/flydexo-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![Twitter](https://img.shields.io/badge/flydex0-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flydexo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flydexo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

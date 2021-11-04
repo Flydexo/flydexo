@@ -50,3 +50,4 @@
 [![flydexo's GitHub stats](https://github-readme-stats.vercel.app/api?username=flydexo&count_private=true&show_icons=true&theme=radical)](https://github.com/flydexo)
 [![flydexo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flydexo)](https://github.com/flydexo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flydexo&repo=nft-marketplace-api)](https://github.com/flydexo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flydexo&layout=compact)](https://github.com/flydexo)
